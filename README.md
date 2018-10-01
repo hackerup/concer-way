@@ -97,6 +97,7 @@ https://seags1tmwp01.concursolutions.com/tm/admhelp/dpa_eaimgrpref.htm
 https://integrate-tools.concursolutions.com/ConcurTrustPlatform.aspx
 
 
+https://www.concur.com/en-us/casestudy?field_casestudy_industry_value=All&field_case_study_range_value=All&page=2
 
 
 
