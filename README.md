@@ -100,6 +100,8 @@ https://integrate-tools.concursolutions.com/ConcurTrustPlatform.aspx
 https://www.concur.com/en-us/casestudy?field_casestudy_industry_value=All&field_case_study_range_value=All&page=2
 
 
+https://www.concurtraining.com/customers/tech_pubs/Docs/TripLink/_CCC_TripLink.htm
+https://www.concurtraining.com/customers/tech_pubs/
 
 
 ##GDPR
